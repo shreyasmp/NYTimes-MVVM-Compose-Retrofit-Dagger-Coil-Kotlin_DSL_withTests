@@ -12,7 +12,6 @@ object AppDependencies {
     const val fragmentKTX = "androidx.fragment:fragment-ktx:${Versions.fragmentKTX}"
     const val material = "com.google.android.material:material:${Versions.material}"
     const val coreKtx = "androidx.core:core-ktx:${Versions.coreKTX}"
-    const val legacySupport = "androidx.legacy:legacy-support-v4:${Versions.support}"
     const val gson = "com.google.code.gson:gson:${Versions.gson}"
 
     // Lifecycle frameworks
@@ -78,9 +77,6 @@ object AppDependencies {
     // Robolectric and Espresso framework
     const val mockk = "io.mockk:mockk:${Versions.mockk}"
     const val robolectric = "org.robolectric:robolectric:${Versions.robolectric}"
-    const val robolectricShadows = "org.robolectric:shadows-multidex:${Versions.robolectricShadows}"
-    const val robolectricSupport =
-        "org.robolectric:shadows-supportv4:${Versions.robolectricShadows}"
     const val espressoIdling =
         "androidx.test.espresso:espresso-idling-resource:${Versions.espresso}"
     const val espressoContrib = "androidx.test.espresso:espresso-contrib:${Versions.espresso}"

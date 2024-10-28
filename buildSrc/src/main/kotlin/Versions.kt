@@ -23,7 +23,6 @@ object Versions {
     const val archLifeCycleExt = "2.2.0"
     const val gson = "2.8.6"
     const val retrofit = "2.9.0"
-    const val support = "1.0.0"
     const val dagger = "2.49"
     const val okHttp3 = "4.4.0"
     const val picasso = "2.71828"
@@ -40,7 +39,6 @@ object Versions {
     const val mockk = "1.13.8"
 
     const val robolectric = "4.5"
-    const val robolectricShadows = "4.5"
     const val kotlinCoroutineTest = "1.4.2"
     const val nhaarmanMockito = "2.2.0"
     const val okHttpMockServer = "4.7.2"
